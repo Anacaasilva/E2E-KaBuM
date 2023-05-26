@@ -1,0 +1,19 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "Testing Kabum platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anacaasilva/E2E.git"
+  },
+  "author": "Ana Carolina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anacaasilva/E2E/issues"
+  },
+  "homepage": "https://github.com/Anacaasilva/E2E#readme"
+}
