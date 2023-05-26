@@ -4,6 +4,7 @@
   "description": "Testing Kabum platform",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "cypress:open": "cypress open"
   },
   "repository": {
