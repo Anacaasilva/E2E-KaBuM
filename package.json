@@ -4,7 +4,7 @@
   "description": "Testing Kabum platform",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "cypress:open": "cypress open"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Anacaasilva/E2E/issues"
   },
-  "homepage": "https://github.com/Anacaasilva/E2E#readme"
+  "homepage": "https://github.com/Anacaasilva/E2E#readme",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  }
 }
