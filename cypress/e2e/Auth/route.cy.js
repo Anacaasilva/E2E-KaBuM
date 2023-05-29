@@ -15,8 +15,18 @@ describe('Routes Auth', () => {
       .then(({ login }) => {
         cy.url().should(url => {
           expect(url).to.equal(login);
-        })
-      })
+        });
+      });
   });
-  
+
+  it('Navigation to register', () => {
+    cy.get('#linkCadastroHeader').click();
+    cy.fixture('urls.json')
+      .then(({register}) => {
+        cy.url().should(url => {
+          expect(url).to.equal(register);
+        });
+      });
+  });
+
 });
