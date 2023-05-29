@@ -1,7 +1,8 @@
 {
   "validUser": {
     "username": "b550mveloz@gmail.com",
-    "password": "Cypress123"
+    "password": "Cypress123",
+    "cpf": "64314482001"
   },
 
   "invalidUser": {
