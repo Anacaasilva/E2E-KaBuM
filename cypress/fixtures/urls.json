@@ -1,5 +1,6 @@
 {
   "home": "https://www.kabum.com.br/",
   "login": "https://www.kabum.com.br/login?redirect_uri=https://www.kabum.com.br/",
-  "register": "https://www.kabum.com.br/cadastro"
+  "register": "https://www.kabum.com.br/cadastro",
+  "account": "https://www.kabum.com.br/minha-conta/meus-dados"
 }

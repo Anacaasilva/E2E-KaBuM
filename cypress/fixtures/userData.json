@@ -2,7 +2,10 @@
   "validUser": {
     "username": "b550mveloz@gmail.com",
     "password": "Cypress123",
-    "cpf": "64314482001"
+    "cpf": "64314482001",
+    "name": "Testando com Cypress",
+    "date": "28/12/2002",
+    "cel": "(62) 9 8758-6051"
   },
 
   "invalidUser": {
